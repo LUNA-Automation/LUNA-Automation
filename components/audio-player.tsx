@@ -8,7 +8,7 @@ const clips = [
   {
     title: "Natural Customer Service",
     description: "Listen to L.U.N.A. handle a complex customer inquiry with human-like understanding",
-    url: "/audio/customer-service.mp3",
+    url: "/audio/LunaCustomerService.mp3",
     icon: Phone,
   },
   {
